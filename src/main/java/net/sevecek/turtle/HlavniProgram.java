@@ -14,6 +14,7 @@ public class HlavniProgram {
             postavDomecek(zofka);
         }
         zofka.penUp();
+
         zofka.move(120);
         zofka.turnRight(90);
         zofka.move(120);
